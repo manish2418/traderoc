@@ -27,6 +27,11 @@ export const metadata = {
     "trading performance tracker",
   ],
   metadataBase: new URL(siteUrl),
+  icons: {
+    icon: "/traderoc.png",
+    shortcut: "/traderoc.png",
+    apple: "/traderoc.png",
+  },
   alternates: {
     canonical: "/",
   },
